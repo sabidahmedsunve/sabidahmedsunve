@@ -94,7 +94,7 @@ I'm an experienced **MIS & ERP Officer** with a strong background in data manage
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sabid-ahmed-sunve-3a44a6378/" target="_blank">
+  <a href="https://www.linkedin.com/in/sabidahmedsunve/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30">
   </a>
   &nbsp;&nbsp;
