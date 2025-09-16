@@ -62,19 +62,21 @@ I'm an experienced **MIS & ERP Officer** with a strong background in data manage
 
 ### 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td align="center" style="padding: 12px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabidahmedsunve&layout=compact&theme=default&hide_border=false" width="400" />
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sabidahmedsunve&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide_border=false" width="450" />
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://streak-stats.demolab.com?user=sabidahmedsunve&theme=default&hide_border=false" width="470" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 12px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabidahmedsunve&layout=compact&theme=radical&hide_border=false" width="400" />
+      </td>
+      <td align="center" style="padding: 12px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=sabidahmedsunve&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" width="450" />
+      </td>
+      <td align="center" style="padding: 12px;">
+        <img src="https://streak-stats.demolab.com/?user=sabidahmedsunve&theme=radical&hide_border=false" width="470" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
