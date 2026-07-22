@@ -1,108 +1,247 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira&size=26&duration=3000&pause=5000&color=1F75C6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sabid+Ahmed+Sunve!" alt="👋 Hi there, I'm Sabid Ahmed Sunve!" />
-</p>
-
-### 📊 Aspiring Business Intelligence Analyst | Python | Machine Learning | Data Analytics | AI & Big Data Enthusiast
-
-I'm an experienced **MIS & ERP Officer** with a strong background in data management, **system optimization**, and enterprise resource planning. I focus on enhancing business efficiency through technology, **automation**, and **intelligent reporting**. With growing expertise in **AI-powered analytics and data-driven solutions**, I aim to transition into a role as a **Business Intelligence Analyst**, where I can transform business data into actionable insights that support smart decision-making.
-
----
-
-### 🔍 About Me
-
-- 👨‍💼 Former MIS & ERP Officer at **Ha-Meem Group**
-- 🎓 MSc in AI & Data Science (In Progress)
-- 💼 Skilled in: **ERP Systems**, **Excel Automation**, **SQL**, **Data Analysis**, **DS & ML**
-- 🚀 Currently Learning: **Python for AI**, **Power BI**, **Machine Learning**, and **Predictive Analytics**
-- 🧠 Interested in: Business Intelligence • Process Automation • AI Integration
-- 📫 Reach Me At: sunve.ds.bi@gmail.com
-
----
-
-### 🧰 Tech Stack & Tools
-
-**Languages & Querying:**  
-`Python` • `SQL` • `Excel` • `SQL Query`
-
-**ERP & MIS:**  
-`SAP` • `Oracle ERP (basic)` 
-
-**AI & Data Science Tools:**  
-`Jupyter` • `Pandas` • `Scikit-learn` • `Google Colab`
-
-**Other Tools:**  
-`Git` • `MS Power Automate` • `Power Apps` • `Postman` • `VS Code`
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" height="50" />
-  <img src="https://skillicons.dev/icons?i=py" alt="py" height="50" />
-  <img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" height="50" />
-  <img src="https://skillicons.dev/icons?i=ps" alt="ps" height="50" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="50" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" height="50" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="50" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="50" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="50" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="50" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" />
-  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="50" />
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="50" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" height="50" />
-  <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" height="50" />
-  <img src="https://skills.syvixor.com/api/icons?i=chatgpt" alt="chatgpt" height="50" />
-  <img src="https://skills.syvixor.com/api/icons?i=bash" alt="bash" height="50" />
-  <img src="https://skills.syvixor.com/api/icons?i=googlecolaboratory" alt="googlecolaboratory" height="50" />
-  <img src="https://skills.syvixor.com/api/icons?i=xampp" alt="xampp" height="50" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabidahmedsunve&layout=compact&theme=radical&hide_border=false" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sabidahmedsunve&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" width="420" />
-  <img src="https://streak-stats.demolab.com/?user=sabidahmedsunve&theme=radical&hide_border=false" width="420" />
+
+<img src="./assets/github-profile-banner.svg" width="100%" alt="Sabid Ahmed Sunve — AI and Data Science"/>
+
+<br/>
+
+<a href="https://sabidahmedsunve.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-071426?style=for-the-badge&logo=firefox-browser&logoColor=36C2FF" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/sabidahmed-sunve">
+  <img src="https://img.shields.io/badge/LinkedIn-071426?style=for-the-badge&logo=linkedin&logoColor=1688FF" alt="LinkedIn"/>
+</a>
+<a href="mailto:sabidahmed612@gmail.com">
+  <img src="https://img.shields.io/badge/Email-071426?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sabidahmedsunve&label=PROFILE+VIEWS&color=1688ff&style=flat-square" alt="Profile views"/>
+
 </div>
 
+---
+
+## 👋 About Me
+
+I am **Sabid Ahmed Sunve**, currently pursuing an **MSc in Artificial Intelligence & Data Science** at the **University of Hull (London Study Centre), United Kingdom**.
+
+My academic background began with a **BSc in Computer Science & Engineering** from **Daffodil International University**. I am focused on building practical and research-informed solutions using artificial intelligence, machine learning and data science.
+
+My main interests include:
+
+- Artificial Intelligence and Machine Learning
+- Deep Learning and Neural Networks
+- Natural Language Processing
+- Computer Vision
+- Graph Neural Networks
+- Financial Fraud Detection
+- Data Analytics and Predictive Modelling
+- Explainable and Responsible AI
+
+> **Turning data into intelligent decisions through research, innovation and practical problem-solving.**
 
 ---
 
+## 🎓 Education
+
+### MSc Artificial Intelligence & Data Science
+**University of Hull — London Study Centre, United Kingdom**
+
+Relevant study areas:
+
+- Programming for AI & Data Science
+- Understanding AI
+- Fundamentals of Data Science
+- Big Data & Data Mining
+- Applied AI
+- Research Project
+
+### BSc Computer Science & Engineering
+**Daffodil International University, Bangladesh**
+
+Final-year project:
+
+- **AgriMan** — Android application developed using Java and Firebase
+
 ---
 
-### 🏆 GitHub Trophies
+## 🔬 Current Research Direction
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sabidahmedsunve&theme=flat&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
+### Graph Neural Networks for Financial Fraud Detection
+
+My current research explores how graph-based representations can support financial fraud detection by modelling relationships between transactions, accounts and behavioural patterns.
+
+Areas of interest include:
+
+- Graph representation learning
+- Fraudster camouflage
+- Class imbalance
+- Model robustness
+- Explainability
+- Real-world deployment challenges
+
+---
+
+## 🧠 Technical Skills
+
+### Artificial Intelligence and Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-071426?style=for-the-badge&logo=openai&logoColor=36C2FF"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-071426?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-071426?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/NLP-071426?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-071426?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+  <img src="https://img.shields.io/badge/Graph_Neural_Networks-071426?style=for-the-badge&logo=neo4j&logoColor=018BFF"/>
 </p>
 
+### Programming and Tools
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,java,mysql,git,github,vscode,firebase&perline=10" alt="Technology stack"/>
+</p>
 
-### 🌐 Let's Connect
+### Data Libraries and Workflow
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sabidahmedsunve/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:sunve.ds.bi@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/sabidahmedsunve">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30">
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-071426?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-071426?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+  <img src="https://img.shields.io/badge/Matplotlib-071426?style=for-the-badge&logo=python&logoColor=36C2FF"/>
+  <img src="https://img.shields.io/badge/Jupyter-071426?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
+  <img src="https://img.shields.io/badge/Google_Colab-071426?style=for-the-badge&logo=googlecolab&logoColor=F9AB00"/>
+  <img src="https://img.shields.io/badge/SQL-071426?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 </p>
 
 ---
 
-<p align="center">
-  <em>“Turning Data into Intelligent Decisions. - by Sunve”</em>
-</p>
+## 🚀 Selected Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 Graph Neural Networks for Financial Fraud Detection
+
+Research project investigating graph-based fraud detection, relational learning and robust model design.
+
+**Focus:** GNNs, fraud detection, explainability, class imbalance
+
+**Status:** Research in progress
+
+</td>
+<td width="50%" valign="top">
+
+### 😊 Emotion Classification with NLP
+
+Natural language processing project using the GoEmotions dataset to explore multi-label emotion classification.
+
+**Focus:** NLP, classification, model evaluation, data preprocessing
+
+**Status:** Academic project
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 AgriMan Android Application
+
+BSc final-year Android application developed using Java and Firebase.
+
+**Focus:** Android development, cloud data, application design
+
+**Status:** Completed
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Applied AI and Data Science Work
+
+A growing collection of notebooks and projects covering machine learning, data mining, analytics and applied artificial intelligence.
+
+**Focus:** Python, modelling, visualisation, evaluation
+
+**Status:** Ongoing
+
+</td>
+</tr>
+</table>
+
+> Add the exact repository links once each project is publicly available.
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabidahmedsunve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030B18&title_color=1688FF&icon_color=36C2FF&text_color=F6F9FF" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabidahmedsunve&layout=compact&theme=tokyonight&hide_border=true&bg_color=030B18&title_color=1688FF&text_color=F6F9FF" alt="Top languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=sabidahmedsunve&theme=tokyonight&hide_border=true&background=030B18&ring=1688FF&fire=36C2FF&currStreakLabel=F6F9FF" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sabidahmedsunve&bg_color=030B18&color=F6F9FF&line=1688FF&point=36C2FF&area=true&hide_border=true" alt="Contribution activity graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sabidahmedsunve&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sabidahmedsunve/sabidahmedsunve/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening applied machine learning and deep learning skills
+- Developing research capability in graph neural networks
+- Building professional AI and data science projects
+- Improving GitHub documentation and reproducibility
+- Connecting with AI researchers, engineers and data professionals
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|---|---|
+| Portfolio | [sabidahmedsunve.github.io](https://sabidahmedsunve.github.io) |
+| LinkedIn | [linkedin.com/in/sabidahmed-sunve](https://www.linkedin.com/in/sabidahmed-sunve) |
+| GitHub | [github.com/sabidahmedsunve](https://github.com/sabidahmedsunve) |
+| Email | [sabidahmed612@gmail.com](mailto:sabidahmed612@gmail.com) |
+
+</div>
+
+---
+
+<div align="center">
+
+### Thank you for visiting my profile.
+
+**Artificial Intelligence • Machine Learning • Data Science • Research**
+
+</div>
