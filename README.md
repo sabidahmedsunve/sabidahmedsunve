@@ -34,9 +34,6 @@ My background in **Computer Science & Engineering** has given me a strong founda
 
 I am particularly interested in developing intelligent systems that are technically sound, explainable and useful in real-world settings.
 
-My background in Computer Science & Engineering has given me a strong foundation in programming, software development and analytical problem-solving. I am now advancing that foundation through postgraduate study and practical work in artificial intelligence, machine learning and data science.
-
-I am particularly interested in developing intelligent systems that are technically sound, explainable and useful in real-world settings.
 
 <table>
 <tr>
