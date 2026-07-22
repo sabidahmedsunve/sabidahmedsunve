@@ -30,7 +30,7 @@
 
 I am currently pursuing an **MSc in Artificial Intelligence & Data Science** at the **University of Hull (London Study Centre), United Kingdom**.
 
-My background in **Computer Science & Engineering** has given me a strong foundation in programming, software development and analytical problem-solving. I am now advancing that foundation through postgraduate study and practical work in artificial intelligence, machine learning and data science.
+My background in **Computer Science & Engineering** has given me a strong foundation in programming, software development, and analytical problem-solving. I am now advancing that foundation through postgraduate study and practical work in artificial intelligence, machine learning and data science.
 
 I am particularly interested in developing intelligent systems that are technically sound, explainable and useful in real-world settings.
 
@@ -89,7 +89,13 @@ I am particularly interested in developing intelligent systems that are technica
 
 Turning data into intelligent decisions through research, innovation and practical problem-solving.
 
+<h1 align="left">
+
 🎓 Education
+
+</h1>
+
+<hr style="height:1px;border:none;background:#30363d;">
 
 <table>
 <tr>
