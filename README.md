@@ -22,9 +22,17 @@
 
 </div>
 
-👋 Professional Profile
+## 👋 Professional Profile
 
-I am Sabid Ahmed Sunve, currently pursuing an MSc in Artificial Intelligence & Data Science at the University of Hull (London Study Centre), United Kingdom.
+<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=1E90FF&vCenter=true&repeat=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sabid+Ahmed+Sunve" />
+</p>
+
+I am currently pursuing an **MSc in Artificial Intelligence & Data Science** at the **University of Hull (London Study Centre), United Kingdom**.
+
+My background in **Computer Science & Engineering** has given me a strong foundation in programming, software development and analytical problem-solving. I am now advancing that foundation through postgraduate study and practical work in artificial intelligence, machine learning and data science.
+
+I am particularly interested in developing intelligent systems that are technically sound, explainable and useful in real-world settings.
 
 My background in Computer Science & Engineering has given me a strong foundation in programming, software development and analytical problem-solving. I am now advancing that foundation through postgraduate study and practical work in artificial intelligence, machine learning and data science.
 
