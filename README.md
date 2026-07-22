@@ -37,9 +37,55 @@ I am particularly interested in developing intelligent systems that are technica
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-🎯 Main Interests
+<td width="50%" valign="top" align="center">
+
+<h3>🎯 Main Interests</h3>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=1800&pause=500&color=36C2FF&center=true&vCenter=true&repeat=true&width=480&height=210&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Natural+Language+Processing;Computer+Vision;Graph+Neural+Networks;Data+Analytics;Predictive+Modelling"
+  alt="Main interests animation"
+/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI-071426?style=for-the-badge&logo=openai&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/Machine_Learning-071426?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Deep_Learning-071426?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/NLP-071426?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Computer_Vision-071426?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/Graph_Learning-071426?style=for-the-badge&logo=neo4j&logoColor=018BFF"/>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<h3>🌱 Professional Direction</h3>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=1800&pause=500&color=1688FF&center=true&vCenter=true&repeat=true&width=480&height=210&lines=Applied+AI+Development;Machine+Learning+Engineering;Data+Science+%26+Analytics;Artificial+Intelligence+Research;Reproducible+Technical+Projects;Responsible+%26+Explainable+AI;Continuous+Technical+Learning;Professional+Collaboration"
+  alt="Professional direction animation"
+/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Applied_AI-071426?style=for-the-badge&logo=openai&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/ML_Engineering-071426?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/AI_Research-071426?style=for-the-badge&logo=googlescholar&logoColor=4285F4"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Explainable_AI-071426?style=for-the-badge&logo=semanticweb&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/Reproducibility-071426?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/Collaboration-071426?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
+</td>
+
+</tr>
+</table>
 
 Artificial Intelligence
 
