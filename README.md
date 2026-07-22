@@ -93,50 +93,92 @@ Turning data into intelligent decisions through research, innovation and practic
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-University of Hull
+<div align="center">
 
-MSc Artificial Intelligence & Data Science
+<img src="https://img.shields.io/badge/UNIVERSITY_OF_HULL-071426?style=for-the-badge&logo=academia&logoColor=36C2FF"/>
 
-London Study Centre, United Kingdom
+<h3>MSc Artificial Intelligence &amp; Data Science</h3>
 
-Relevant areas
+<img src="https://img.shields.io/badge/United_Kingdom-1688FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Postgraduate-071426?style=flat-square&logo=graduationcap&logoColor=36C2FF"/>
 
-Programming for AI & Data Science
+</div>
 
-Understanding AI
+<br/>
 
-Fundamentals of Data Science
+### 📍 Study Location
 
-Big Data & Data Mining
+**University of Hull — London Study Centre**
 
-Applied AI
+<br/>
 
-Research Project
+### 📚 Key Modules
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Programming_for_AI-071426?style=flat-square&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/Understanding_AI-071426?style=flat-square&logo=openai&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/Fundamentals_of_Data_Science-071426?style=flat-square&logo=databricks&logoColor=FF3621"/>
+<img src="https://img.shields.io/badge/Big_Data_%26_Data_Mining-071426?style=flat-square&logo=apachehadoop&logoColor=66CCFF"/>
+<img src="https://img.shields.io/badge/Applied_AI-071426?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Research_Project-071426?style=flat-square&logo=googlescholar&logoColor=4285F4"/>
+
+</p>
+
+<br/>
+
+### 🔬 Academic Direction
+
+Artificial Intelligence • Machine Learning • Data Science • Research
 
 </td>
+
 <td width="50%" valign="top">
 
-Daffodil International University
+<div align="center">
 
-BSc Computer Science & Engineering
+<img src="https://img.shields.io/badge/DAFFODIL_INTERNATIONAL_UNIVERSITY-071426?style=for-the-badge&logo=academia&logoColor=36C2FF"/>
 
-Bangladesh
+<h3>BSc Computer Science &amp; Engineering</h3>
 
-Final-year project
+<img src="https://img.shields.io/badge/Bangladesh-1688FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Undergraduate-071426?style=flat-square&logo=graduationcap&logoColor=36C2FF"/>
 
-AgriMan
+</div>
 
-An Android application developed using:
+<br/>
 
-Java
+### 🎓 Final-Year Project
 
-Firebase
+<h3 align="center">🌾 AgriMan</h3>
 
-Android development tools
+<p align="center">
+Android-based agricultural application developed as my undergraduate final-year project.
+</p>
+
+<br/>
+
+### 🛠️ Technologies Used
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-071426?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Android-071426?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/Firebase-071426?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+
+</p>
+
+<br/>
+
+### 💡 Foundation Developed
+
+Programming • Software Development • Databases • Problem-Solving
 
 </td>
+
 </tr>
 </table>
 
