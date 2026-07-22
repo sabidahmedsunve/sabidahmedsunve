@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://sabidahmedsunve.github.io">
+<a href="https://sabidahmedsunve.github.io/Sunve-Portfolio/">
   <img src="https://img.shields.io/badge/PORTFOLIO-071426?style=for-the-badge&logo=firefox-browser&logoColor=36C2FF" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/sabidahmed-sunve">
@@ -383,7 +383,7 @@ Link
 
 🌍 Portfolio
 
-sabidahmedsunve.github.io
+https://sabidahmedsunve.github.io/Sunve-Portfolio/
 
 💼 LinkedIn
 
@@ -395,7 +395,7 @@ github.com/sabidahmedsunve
 
 📧 Email
 
-sabidahmed612@gmail.com
+sunve.ds.bi@gmail.com
 
 </div>
 
