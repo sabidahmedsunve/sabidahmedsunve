@@ -30,9 +30,9 @@
 
 I am currently pursuing an **MSc in Artificial Intelligence & Data Science** at the **University of Hull (London Study Centre), United Kingdom**.
 
-My background in **Computer Science & Engineering** has given me a strong foundation in programming, software development, and analytical problem-solving. I am now advancing that foundation through postgraduate study and practical work in artificial intelligence, machine learning and data science.
+My background in **Computer Science & Engineering** has given me a strong foundation in programming, software development, and analytical problem-solving. I am now advancing that foundation through postgraduate study and practical work in artificial intelligence, machine learning, and data science.
 
-I am particularly interested in developing intelligent systems that are technically sound, explainable and useful in real-world settings.
+I am particularly interested in developing intelligent systems that are technically sound, explainable, and useful in real-world settings.
 
 
 <table>
@@ -106,39 +106,35 @@ Turning data into intelligent decisions through research, innovation and practic
 
 <img src="https://img.shields.io/badge/UNIVERSITY_OF_HULL-071426?style=for-the-badge&logo=academia&logoColor=36C2FF"/>
 
-<h3>MSc Artificial Intelligence &amp; Data Science</h3>
+<h2>MSc Artificial Intelligence &amp; Data Science</h2>
 
-<img src="https://img.shields.io/badge/United_Kingdom-1688FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/London,_United_Kingdom-1688FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Postgraduate-071426?style=flat-square&logo=graduationcap&logoColor=36C2FF"/>
 
 </div>
 
 <br/>
 
-### 📍 Study Location
+### 📍 Current Study
 
 **University of Hull — London Study Centre**
 
 <br/>
 
-### 📚 Key Modules
+### 🧠 Core Academic Areas
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Programming_for_AI-071426?style=flat-square&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/Understanding_AI-071426?style=flat-square&logo=openai&logoColor=36C2FF"/>
-<img src="https://img.shields.io/badge/Fundamentals_of_Data_Science-071426?style=flat-square&logo=databricks&logoColor=FF3621"/>
-<img src="https://img.shields.io/badge/Big_Data_%26_Data_Mining-071426?style=flat-square&logo=apachehadoop&logoColor=66CCFF"/>
-<img src="https://img.shields.io/badge/Applied_AI-071426?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/Research_Project-071426?style=flat-square&logo=googlescholar&logoColor=4285F4"/>
-
-</p>
+- 🤖 Artificial Intelligence
+- 🧩 Machine Learning
+- 📊 Data Science
+- 🗃️ Big Data & Data Mining
+- 💻 Programming for AI
+- 🔬 Research Methods
 
 <br/>
 
-### 🔬 Academic Direction
+### 🎯 Academic Direction
 
-Artificial Intelligence • Machine Learning • Data Science • Research
+`Applied AI` • `Machine Learning` • `Data Science` • `Research`
 
 </td>
 
@@ -148,7 +144,7 @@ Artificial Intelligence • Machine Learning • Data Science • Research
 
 <img src="https://img.shields.io/badge/DAFFODIL_INTERNATIONAL_UNIVERSITY-071426?style=for-the-badge&logo=academia&logoColor=36C2FF"/>
 
-<h3>BSc Computer Science &amp; Engineering</h3>
+<h2>BSc Computer Science &amp; Engineering</h2>
 
 <img src="https://img.shields.io/badge/Bangladesh-1688FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Undergraduate-071426?style=flat-square&logo=graduationcap&logoColor=36C2FF"/>
@@ -157,17 +153,17 @@ Artificial Intelligence • Machine Learning • Data Science • Research
 
 <br/>
 
-### 🎓 Final-Year Project
+### 🌾 Final-Year Project
 
-<h3 align="center">🌾 AgriMan</h3>
+<h3 align="center">AgriMan</h3>
 
 <p align="center">
-Android-based agricultural application developed as my undergraduate final-year project.
+Android application developed as my undergraduate final-year project.
 </p>
 
 <br/>
 
-### 🛠️ Technologies Used
+### 🛠️ Technology Stack
 
 <p align="center">
 
@@ -181,7 +177,11 @@ Android-based agricultural application developed as my undergraduate final-year 
 
 ### 💡 Foundation Developed
 
-Programming • Software Development • Databases • Problem-Solving
+- Programming
+- Software Development
+- Database Concepts
+- Problem-Solving
+- Application Design
 
 </td>
 
