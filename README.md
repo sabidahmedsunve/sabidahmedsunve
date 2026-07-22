@@ -260,6 +260,17 @@ Data Science Workflow
 
 </p>
 
+<div align="center">
+
+## 🔥 GitHub Streak
+
+<img
+  src="https://streak-stats.demolab.com?user=sabidahmedsunve&hide_border=true&background=030B18&ring=1688FF&fire=36C2FF&currStreakLabel=F6F9FF&sideLabels=F6F9FF&dates=9CB2CB&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  alt="Sabid Ahmed Sunve GitHub streak"
+/>
+
+</div>
+
 🚀 Selected Projects
 
 <table>
