@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/github-profile-banner.svg" width="100%" alt="Sabid Ahmed Sunve — AI and Data Science"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030B18,55:071426,100:1688FF&text=Sabid%20Ahmed%20Sunve&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=Artificial%20Intelligence%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Data%20Science&descAlignY=60&descSize=18" alt="Profile banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=36C2FF&center=true&vCenter=true&width=900&lines=MSc+Artificial+Intelligence+%26+Data+Science;Turning+Data+into+Intelligent+Decisions;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Computer+Vision+%7C+Graph+Neural+Networks" alt="Typing introduction"/>
 
 <br/>
 
@@ -20,125 +22,153 @@
 
 </div>
 
----
+👋 About Me
 
-## 👋 About Me
+I am Sabid Ahmed Sunve, currently pursuing an MSc in Artificial Intelligence & Data Science at the University of Hull (London Study Centre), United Kingdom.
 
-I am **Sabid Ahmed Sunve**, currently pursuing an **MSc in Artificial Intelligence & Data Science** at the **University of Hull (London Study Centre), United Kingdom**.
+I previously completed a BSc in Computer Science & Engineering at Daffodil International University. My academic and technical interests focus on applying artificial intelligence and data science to meaningful real-world problems.
 
-My academic background began with a **BSc in Computer Science & Engineering** from **Daffodil International University**. I am focused on building practical and research-informed solutions using artificial intelligence, machine learning and data science.
+🎓 MSc Artificial Intelligence & Data Science
 
-My main interests include:
+💻 BSc Computer Science & Engineering
 
-- Artificial Intelligence and Machine Learning
-- Deep Learning and Neural Networks
-- Natural Language Processing
-- Computer Vision
-- Graph Neural Networks
-- Financial Fraud Detection
-- Data Analytics and Predictive Modelling
-- Explainable and Responsible AI
+🔬 Research interest in Graph Neural Networks for Financial Fraud Detection
 
-> **Turning data into intelligent decisions through research, innovation and practical problem-solving.**
+🧠 Interested in Machine Learning, Deep Learning, NLP and Computer Vision
 
----
+📊 Focused on practical, research-informed and data-driven solutions
 
-## 🎓 Education
+🌱 Continuously developing my technical, analytical and research skills
 
-### MSc Artificial Intelligence & Data Science
-**University of Hull — London Study Centre, United Kingdom**
+Turning data into intelligent decisions through research, innovation and practical problem-solving.
 
-Relevant study areas:
-
-- Programming for AI & Data Science
-- Understanding AI
-- Fundamentals of Data Science
-- Big Data & Data Mining
-- Applied AI
-- Research Project
-
-### BSc Computer Science & Engineering
-**Daffodil International University, Bangladesh**
-
-Final-year project:
-
-- **AgriMan** — Android application developed using Java and Firebase
-
----
-
-## 🔬 Current Research Direction
-
-### Graph Neural Networks for Financial Fraud Detection
-
-My current research explores how graph-based representations can support financial fraud detection by modelling relationships between transactions, accounts and behavioural patterns.
-
-Areas of interest include:
-
-- Graph representation learning
-- Fraudster camouflage
-- Class imbalance
-- Model robustness
-- Explainability
-- Real-world deployment challenges
-
----
-
-## 🧠 Technical Skills
-
-### Artificial Intelligence and Data Science
-
-<p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-071426?style=for-the-badge&logo=openai&logoColor=36C2FF"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-071426?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-071426?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-  <img src="https://img.shields.io/badge/NLP-071426?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-071426?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-  <img src="https://img.shields.io/badge/Graph_Neural_Networks-071426?style=for-the-badge&logo=neo4j&logoColor=018BFF"/>
-</p>
-
-### Programming and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,java,mysql,git,github,vscode,firebase&perline=10" alt="Technology stack"/>
-</p>
-
-### Data Libraries and Workflow
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-071426?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-071426?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
-  <img src="https://img.shields.io/badge/Matplotlib-071426?style=for-the-badge&logo=python&logoColor=36C2FF"/>
-  <img src="https://img.shields.io/badge/Jupyter-071426?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
-  <img src="https://img.shields.io/badge/Google_Colab-071426?style=for-the-badge&logo=googlecolab&logoColor=F9AB00"/>
-  <img src="https://img.shields.io/badge/SQL-071426?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-</p>
-
----
-
-## 🚀 Selected Projects
+🎓 Education
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 Graph Neural Networks for Financial Fraud Detection
+University of Hull
 
-Research project investigating graph-based fraud detection, relational learning and robust model design.
+MSc Artificial Intelligence & Data Science
 
-**Focus:** GNNs, fraud detection, explainability, class imbalance
+London Study Centre, United Kingdom
 
-**Status:** Research in progress
+Relevant areas:
+
+Programming for AI & Data Science
+
+Understanding AI
+
+Fundamentals of Data Science
+
+Big Data & Data Mining
+
+Applied AI
+
+Research Project
 
 </td>
 <td width="50%" valign="top">
 
-### 😊 Emotion Classification with NLP
+Daffodil International University
 
-Natural language processing project using the GoEmotions dataset to explore multi-label emotion classification.
+BSc Computer Science & Engineering
 
-**Focus:** NLP, classification, model evaluation, data preprocessing
+Bangladesh
 
-**Status:** Academic project
+Final-year project:
+
+AgriMan
+
+Android application
+
+Developed with Java and Firebase
+
+</td>
+</tr>
+</table>
+
+🔬 Research Interest
+
+Graph Neural Networks for Financial Fraud Detection
+
+My current research interest explores how graph-based learning can help model relationships between transactions, accounts and behavioural patterns for financial fraud detection.
+
+Key areas of interest:
+
+Graph representation learning
+
+Camouflaged fraudsters
+
+Class imbalance
+
+Model robustness
+
+Explainability
+
+Real-world implementation challenges
+
+🧠 Core Areas
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-071426?style=for-the-badge&logo=openai&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/Machine_Learning-071426?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Deep_Learning-071426?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/NLP-071426?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Computer_Vision-071426?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/Graph_Neural_Networks-071426?style=for-the-badge&logo=neo4j&logoColor=018BFF"/>
+<img src="https://img.shields.io/badge/Data_Science-071426?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
+<img src="https://img.shields.io/badge/Data_Analytics-071426?style=for-the-badge&logo=googleanalytics&logoColor=E37400"/>
+
+</p>
+
+🛠️ Technology Stack
+
+Programming, Frameworks and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,java,mysql,git,github,vscode,firebase&perline=10" alt="Technology stack"/>
+</p>
+
+Data Science Workflow
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-071426?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-071426?style=flat-square&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Matplotlib-071426?style=flat-square&logo=python&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/Jupyter-071426?style=flat-square&logo=jupyter&logoColor=F37626"/>
+<img src="https://img.shields.io/badge/Google_Colab-071426?style=flat-square&logo=googlecolab&logoColor=F9AB00"/>
+<img src="https://img.shields.io/badge/SQL-071426?style=flat-square&logo=mysql&logoColor=4479A1"/>
+
+</p>
+
+🚀 Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🔗 GNN-Based Financial Fraud Detection
+
+Research exploring graph neural networks for identifying suspicious relational and behavioural patterns in financial data.
+
+Areas: Graph learning, fraud detection, robustness, explainability
+
+Status: Research in progress
+
+</td>
+<td width="50%" valign="top">
+
+😊 Emotion Classification with NLP
+
+Natural language processing work using the GoEmotions dataset to study multi-label emotion classification.
+
+Areas: NLP, preprocessing, classification, model evaluation
+
+Status: Academic project
 
 </td>
 </tr>
@@ -146,44 +176,40 @@ Natural language processing project using the GoEmotions dataset to explore mult
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 AgriMan Android Application
+🌾 AgriMan Android Application
 
-BSc final-year Android application developed using Java and Firebase.
+BSc final-year Android application developed with Java and Firebase.
 
-**Focus:** Android development, cloud data, application design
+Areas: Android development, Firebase, application design
 
-**Status:** Completed
+Status: Completed
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Applied AI and Data Science Work
+📊 Applied AI & Data Science
 
-A growing collection of notebooks and projects covering machine learning, data mining, analytics and applied artificial intelligence.
+A growing collection of academic notebooks and projects involving machine learning, data mining, analytics and model evaluation.
 
-**Focus:** Python, modelling, visualisation, evaluation
+Areas: Python, EDA, modelling, visualisation
 
-**Status:** Ongoing
+Status: Ongoing
 
 </td>
 </tr>
 </table>
 
-> Add the exact repository links once each project is publicly available.
-
----
-
-## 📈 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabidahmedsunve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030B18&title_color=1688FF&icon_color=36C2FF&text_color=F6F9FF" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabidahmedsunve&show_icons=true&hide_border=true&bg_color=030B18&title_color=1688FF&icon_color=36C2FF&text_color=F6F9FF" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabidahmedsunve&layout=compact&theme=tokyonight&hide_border=true&bg_color=030B18&title_color=1688FF&text_color=F6F9FF" alt="Top languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabidahmedsunve&layout=compact&hide_border=true&bg_color=030B18&title_color=1688FF&text_color=F6F9FF" alt="Top languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sabidahmedsunve&theme=tokyonight&hide_border=true&background=030B18&ring=1688FF&fire=36C2FF&currStreakLabel=F6F9FF" alt="GitHub streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=sabidahmedsunve&hide_border=true&background=030B18&ring=1688FF&fire=36C2FF&currStreakLabel=F6F9FF&sideLabels=F6F9FF&dates=9CB2CB&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
 
 <br/><br/>
 
@@ -191,9 +217,7 @@ A growing collection of notebooks and projects covering machine learning, data m
 
 </div>
 
----
-
-## 🏆 GitHub Achievements
+🏆 GitHub Trophies
 
 <div align="center">
 
@@ -201,9 +225,7 @@ A growing collection of notebooks and projects covering machine learning, data m
 
 </div>
 
----
-
-## 🐍 Contribution Activity
+🐍 Contribution Activity
 
 <div align="center">
 
@@ -211,37 +233,52 @@ A growing collection of notebooks and projects covering machine learning, data m
 
 </div>
 
----
+The snake appears after the GitHub Actions workflow successfully creates the output branch.
 
-## 🎯 Current Focus
+🎯 Current Focus
 
-- Strengthening applied machine learning and deep learning skills
-- Developing research capability in graph neural networks
-- Building professional AI and data science projects
-- Improving GitHub documentation and reproducibility
-- Connecting with AI researchers, engineers and data professionals
+Strengthening machine learning and deep learning skills
 
----
+Developing research expertise in graph neural networks
 
-## 🌐 Connect With Me
+Building well-documented AI and data science projects
+
+Improving reproducibility and technical communication
+
+Connecting with researchers, engineers and data professionals
+
+🌐 Connect With Me
 
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| Portfolio | [sabidahmedsunve.github.io](https://sabidahmedsunve.github.io) |
-| LinkedIn | [linkedin.com/in/sabidahmed-sunve](https://www.linkedin.com/in/sabidahmed-sunve) |
-| GitHub | [github.com/sabidahmedsunve](https://github.com/sabidahmedsunve) |
-| Email | [sabidahmed612@gmail.com](mailto:sabidahmed612@gmail.com) |
+Platform
+
+Link
+
+🌍 Portfolio
+
+sabidahmedsunve.github.io
+
+💼 LinkedIn
+
+linkedin.com/in/sabidahmed-sunve
+
+💻 GitHub
+
+github.com/sabidahmedsunve
+
+📧 Email
+
+sabidahmed612@gmail.com
 
 </div>
 
----
-
 <div align="center">
 
-### Thank you for visiting my profile.
+Thank you for visiting my GitHub profile.
 
-**Artificial Intelligence • Machine Learning • Data Science • Research**
+Artificial Intelligence • Machine Learning • Data Science • Research
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1688FF,55:071426,100:030B18"/>
 
 </div>
