@@ -87,47 +87,6 @@ I am particularly interested in developing intelligent systems that are technica
 </tr>
 </table>
 
-Artificial Intelligence
-
-Machine Learning
-
-Deep Learning
-
-Natural Language Processing
-
-Computer Vision
-
-Graph Neural Networks
-
-Data Analytics
-
-Predictive Modelling
-
-</td>
-<td width="50%" valign="top">
-
-🌱 Professional Direction
-
-Applied AI development
-
-Machine learning engineering
-
-Data science and analytics
-
-AI research
-
-Reproducible technical projects
-
-Responsible and explainable AI
-
-Continuous technical learning
-
-Professional collaboration
-
-</td>
-</tr>
-</table>
-
 Turning data into intelligent decisions through research, innovation and practical problem-solving.
 
 🎓 Education
