@@ -30,45 +30,59 @@ I am particularly interested in developing intelligent systems that are technica
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-<h3 align="center">🎯 Main Interests</h3>
+<td width="50%" valign="top" align="center">
 
-<p align="center">
+<h2>🎯 Main Interests</h2>
+
+<p>
 <img src="https://img.shields.io/badge/Artificial_Intelligence-071426?style=for-the-badge&logo=openai&logoColor=36C2FF"/>
 <img src="https://img.shields.io/badge/Machine_Learning-071426?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Deep_Learning-071426?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
 </p>
 
-<p align="center">
+<p>
+<img src="https://img.shields.io/badge/Deep_Learning-071426?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
 <img src="https://img.shields.io/badge/NLP-071426?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+</p>
+
+<p>
 <img src="https://img.shields.io/badge/Computer_Vision-071426?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 <img src="https://img.shields.io/badge/Graph_Neural_Networks-071426?style=for-the-badge&logo=neo4j&logoColor=018BFF"/>
 </p>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Data_Analytics-071426?style=for-the-badge&logo=googleanalytics&logoColor=E37400"/>
 <img src="https://img.shields.io/badge/Predictive_Modelling-071426?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
 </p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">🌱 Professional Direction</h3>
+<h2>🌱 Professional Direction</h2>
 
-<ul>
-<li>Applied AI development</li>
-<li>Machine learning engineering</li>
-<li>Data science and analytics</li>
-<li>Artificial intelligence research</li>
-<li>Reproducible technical projects</li>
-<li>Responsible and explainable AI</li>
-<li>Continuous technical learning</li>
-<li>Professional collaboration</li>
-</ul>
+<p>
+<img src="https://img.shields.io/badge/Applied_AI_Development-071426?style=for-the-badge&logo=openai&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/ML_Engineering-071426?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Data_Science_%26_Analytics-071426?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
+<img src="https://img.shields.io/badge/AI_Research-071426?style=for-the-badge&logo=googlescholar&logoColor=4285F4"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Reproducible_Projects-071426?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/Explainable_AI-071426?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Continuous_Learning-071426?style=for-the-badge&logo=bookstack&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/Professional_Collaboration-071426?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</p>
 
 </td>
+
 </tr>
 </table>
 
