@@ -409,34 +409,57 @@ I aim to develop repositories that are clear, honest, and useful to both technic
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-Documentation
+<td width="50%" valign="top" align="center">
 
-Clear problem statement
+<h2>📝 Documentation</h2>
 
-Dataset information
-
-Setup instructions
-
-Project structure
-
-</td>
-<td width="50%" valign="top">
-
-Technical Quality
-
-Reproducible notebooks
-
-Visualisations and results
-
-Honest limitations
-
-References and acknowledgements
+| ✔ | Standard |
+|:--:|:----------------------------|
+| ✅ | Clear Problem Statement |
+| ✅ | Dataset Information |
+| ✅ | Installation Guide |
+| ✅ | Project Structure |
+| ✅ | Usage Instructions |
+| ✅ | Well-Organized README |
 
 </td>
+
+<td width="50%" valign="top" align="center">
+
+<h2>⚙️ Technical Quality</h2>
+
+| ✔ | Standard |
+|:--:|:----------------------------|
+| ✅ | Reproducible Notebooks |
+| ✅ | Clean Source Code |
+| ✅ | Visualisations & Results |
+| ✅ | Honest Limitations |
+| ✅ | References |
+| ✅ | Documentation |
+
+</td>
+
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+### ⭐ Every repository aims to provide
+
+<img src="https://img.shields.io/badge/Clean_Code-071426?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reproducible_Research-071426?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
+<img src="https://img.shields.io/badge/Professional_Documentation-071426?style=for-the-badge&logo=readthedocs&logoColor=36C2FF"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Data_Driven_Insights-071426?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
+<img src="https://img.shields.io/badge/Open_Source-071426?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Continuous_Improvement-071426?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+
+</div>
 
 <h1 align="left">🎯 Current Focus</h1>
 
