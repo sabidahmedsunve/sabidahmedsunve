@@ -405,7 +405,7 @@ Status: Ongoing
 
 <hr>
 
-I aim to develop repositories that are clear, honest and useful to both technical and non-technical readers.
+I aim to develop repositories that are clear, honest, and useful to both technical and non-technical readers.
 
 <table>
 <tr>
@@ -447,7 +447,7 @@ References and acknowledgements
 
 <td width="50%" valign="top">
 
-<h2 align="center">📚 Learning & Development</h2>
+<h2 align="center">📚 Learning Journey</h2>
 
 <table>
 <tr><td>🤖</td><td><b>Machine Learning</b></td></tr>
