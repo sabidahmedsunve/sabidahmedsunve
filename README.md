@@ -188,52 +188,180 @@ Android application developed as my undergraduate final-year project.
 </tr>
 </table>
 
-🔬 Research Direction
+<h1 align="left">🔬 Research Direction</h1>
 
-Graph Neural Networks for Financial Fraud Detection
+<hr>
 
-My current research interest explores how graph-based representations can support fraud detection by modelling relationships among transactions, accounts and behavioural patterns.
+<div align="center">
+
+<h2>Graph Neural Networks for Financial Fraud Detection</h2>
+
+<img src="https://img.shields.io/badge/RESEARCH_IN_PROGRESS-1688FF?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/GRAPH_BASED_FRAUD_DETECTION-071426?style=for-the-badge&logo=neo4j&logoColor=36C2FF"/>
+
+<br/><br/>
+
+<p>
+My research examines how graph-based representations can model relationships among
+transactions, accounts and behavioural patterns to support more effective financial
+fraud detection.
+</p>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
-<td width="33%" valign="top">
 
-Graph Learning
+<td width="33%" valign="top" align="center">
 
-Studying how nodes, edges and relational structures can reveal patterns that conventional tabular approaches may miss.
+<h3>🔗 Graph Intelligence</h3>
+
+<img src="https://img.shields.io/badge/NODES-071426?style=flat-square&logo=neo4j&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/EDGES-071426?style=flat-square&logo=graphql&logoColor=E10098"/>
+<img src="https://img.shields.io/badge/RELATIONSHIPS-071426?style=flat-square&logo=databricks&logoColor=FF3621"/>
+
+<br/><br/>
+
+Studying how connected entities and relational structures can reveal suspicious patterns that conventional tabular models may overlook.
+
+<br/><br/>
+
+<b>Primary focus</b>
+
+`Graph Representation Learning`
 
 </td>
-<td width="33%" valign="top">
 
-Fraud Detection
+<td width="33%" valign="top" align="center">
 
-Exploring detection challenges including rare fraudulent cases, changing behaviours and camouflaged fraudsters.
+<h3>🛡️ Fraud Intelligence</h3>
+
+<img src="https://img.shields.io/badge/CLASS_IMBALANCE-071426?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/CAMOUFLAGE-071426?style=flat-square&logo=hackthebox&logoColor=9FEF00"/>
+<img src="https://img.shields.io/badge/DETECTION-071426?style=flat-square&logo=googleanalytics&logoColor=E37400"/>
+
+<br/><br/>
+
+Exploring rare fraudulent cases, changing behaviours and camouflaged fraudsters that attempt to resemble legitimate users.
+
+<br/><br/>
+
+<b>Primary focus</b>
+
+`Robust Fraud Detection`
 
 </td>
-<td width="33%" valign="top">
 
-Responsible AI
+<td width="33%" valign="top" align="center">
 
-Considering robustness, explainability and the practical limitations of deploying models in real financial environments.
+<h3>⚖️ Responsible AI</h3>
+
+<img src="https://img.shields.io/badge/ROBUSTNESS-071426?style=flat-square&logo=shield&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/EXPLAINABILITY-071426?style=flat-square&logo=openai&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/DEPLOYMENT-071426?style=flat-square&logo=docker&logoColor=2496ED"/>
+
+<br/><br/>
+
+Considering model transparency, reliability and the practical limitations of deploying fraud-detection systems in real financial environments.
+
+<br/><br/>
+
+<b>Primary focus</b>
+
+`Explainable and Deployable AI`
 
 </td>
+
 </tr>
 </table>
 
-Research themes:Graph Representation Learning • Class Imbalance • Fraudster Camouflage • Model Robustness • Explainable AI
+<br/>
 
-🧠 Core Expertise
+<div align="center">
+
+### Research Themes
+
+<img src="https://img.shields.io/badge/Graph_Representation_Learning-071426?style=for-the-badge&logo=neo4j&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/Class_Imbalance-071426?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Fraudster_Camouflage-071426?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Model_Robustness-071426?style=for-the-badge&logo=shield&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/Explainable_AI-071426?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Financial_Fraud_Detection-071426?style=for-the-badge&logo=googleanalytics&logoColor=E37400"/>
+
+</div>
+
+<br/>
+
+<h1 align="left">🧠 Core Expertise</h1>
+
+<hr>
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+<h3>🤖 AI Systems</h3>
+
+`Artificial Intelligence`
+
+`Machine Learning`
+
+</td>
+
+<td width="25%" align="center">
+
+<h3>🧬 Intelligent Models</h3>
+
+`Deep Learning`
+
+`Graph Neural Networks`
+
+</td>
+
+<td width="25%" align="center">
+
+<h3>💬 Perception</h3>
+
+`Natural Language Processing`
+
+`Computer Vision`
+
+</td>
+
+<td width="25%" align="center">
+
+<h3>📊 Data Intelligence</h3>
+
+`Data Science`
+
+`Data Analytics`
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-071426?style=for-the-badge&logo=openai&logoColor=36C2FF"/>
-<img src="https://img.shields.io/badge/Machine_Learning-071426?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Deep_Learning-071426?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-071426?style=for-the-badge&logo=openai&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-071426?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/DEEP_LEARNING-071426?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
 <img src="https://img.shields.io/badge/NLP-071426?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/Computer_Vision-071426?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/Graph_Neural_Networks-071426?style=for-the-badge&logo=neo4j&logoColor=018BFF"/>
-<img src="https://img.shields.io/badge/Data_Science-071426?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
-<img src="https://img.shields.io/badge/Data_Analytics-071426?style=for-the-badge&logo=googleanalytics&logoColor=E37400"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/COMPUTER_VISION-071426?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/GRAPH_NEURAL_NETWORKS-071426?style=for-the-badge&logo=neo4j&logoColor=018BFF"/>
+<img src="https://img.shields.io/badge/DATA_SCIENCE-071426?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
+<img src="https://img.shields.io/badge/DATA_ANALYTICS-071426?style=for-the-badge&logo=googleanalytics&logoColor=E37400"/>
 
 </p>
 
