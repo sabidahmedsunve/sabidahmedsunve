@@ -6,15 +6,7 @@
 
 <br/>
 
-<a href="https://sabidahmedsunve.github.io/Sunve-Portfolio/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-071426?style=for-the-badge&logo=firefox-browser&logoColor=36C2FF" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/sabidahmed-sunve">
-  <img src="https://img.shields.io/badge/LINKEDIN-071426?style=for-the-badge&logo=linkedin&logoColor=1688FF" alt="LinkedIn"/>
-</a>
-<a href="mailto:sabidahmed612@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-071426?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-</a>
+<a href="https://sabidahmedsunve.github.io/Sunve-Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-071426?style=for-the-badge&logo=firefox-browser&logoColor=36C2FF" alt="Portfolio"/></a><a href="https://www.linkedin.com/in/sabidahmed-sunve"><img src="https://img.shields.io/badge/LINKEDIN-071426?style=for-the-badge&logo=linkedin&logoColor=1688FF" alt="LinkedIn"/></a><a href="mailto:sunve.ds.bi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-071426?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
 <br/><br/>
 
@@ -22,169 +14,141 @@
 
 </div>
 
-## 👋 Professional Profile
+<h1 align="left">👋 Professional Profile</h1>
+
+<hr>
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=1E90FF&vCenter=true&repeat=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sabid+Ahmed+Sunve" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=1E90FF&vCenter=true&repeat=true&width=560&lines=Hi+%F0%9F%91%8B+I'm+Sabid+Ahmed+Sunve" alt="Animated name"/>
 </p>
 
-I am currently pursuing an **MSc in Artificial Intelligence & Data Science** at the **University of Hull (London Study Centre), United Kingdom**.
+I am currently pursuing an MSc in Artificial Intelligence & Data Science at the University of Hull (London Study Centre), United Kingdom.
 
-My background in **Computer Science & Engineering** has given me a strong foundation in programming, software development, and analytical problem-solving. I am now advancing that foundation through postgraduate study and practical work in artificial intelligence, machine learning, and data science.
+My background in Computer Science & Engineering has given me a strong foundation in programming, software development and analytical problem-solving. I am now advancing that foundation through postgraduate study and practical work in artificial intelligence, machine learning and data science.
 
-I am particularly interested in developing intelligent systems that are technically sound, explainable, and useful in real-world settings.
-
+I am particularly interested in developing intelligent systems that are technically sound, explainable and useful in real-world settings.
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%" valign="top" align="center">
+<h3 align="center">🎯 Main Interests</h3>
 
-<h3>🎯 Main Interests</h3>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=1800&pause=500&color=36C2FF&center=true&vCenter=true&repeat=true&width=480&height=210&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Natural+Language+Processing;Computer+Vision;Graph+Neural+Networks;Data+Analytics;Predictive+Modelling"
-  alt="Main interests animation"
-/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI-071426?style=for-the-badge&logo=openai&logoColor=36C2FF"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Artificial_Intelligence-071426?style=for-the-badge&logo=openai&logoColor=36C2FF"/>
 <img src="https://img.shields.io/badge/Machine_Learning-071426?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
 <img src="https://img.shields.io/badge/Deep_Learning-071426?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+</p>
 
-<br/>
-
+<p align="center">
 <img src="https://img.shields.io/badge/NLP-071426?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
 <img src="https://img.shields.io/badge/Computer_Vision-071426?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/Graph_Learning-071426?style=for-the-badge&logo=neo4j&logoColor=018BFF"/>
+<img src="https://img.shields.io/badge/Graph_Neural_Networks-071426?style=for-the-badge&logo=neo4j&logoColor=018BFF"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Data_Analytics-071426?style=for-the-badge&logo=googleanalytics&logoColor=E37400"/>
+<img src="https://img.shields.io/badge/Predictive_Modelling-071426?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
+</p>
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<h3>🌱 Professional Direction</h3>
+<h3 align="center">🌱 Professional Direction</h3>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=1800&pause=500&color=1688FF&center=true&vCenter=true&repeat=true&width=480&height=210&lines=Applied+AI+Development;Machine+Learning+Engineering;Data+Science+%26+Analytics;Artificial+Intelligence+Research;Reproducible+Technical+Projects;Responsible+%26+Explainable+AI;Continuous+Technical+Learning;Professional+Collaboration"
-  alt="Professional direction animation"
-/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Applied_AI-071426?style=for-the-badge&logo=openai&logoColor=36C2FF"/>
-<img src="https://img.shields.io/badge/ML_Engineering-071426?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/AI_Research-071426?style=for-the-badge&logo=googlescholar&logoColor=4285F4"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Explainable_AI-071426?style=for-the-badge&logo=semanticweb&logoColor=36C2FF"/>
-<img src="https://img.shields.io/badge/Reproducibility-071426?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
-<img src="https://img.shields.io/badge/Collaboration-071426?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<ul>
+<li>Applied AI development</li>
+<li>Machine learning engineering</li>
+<li>Data science and analytics</li>
+<li>Artificial intelligence research</li>
+<li>Reproducible technical projects</li>
+<li>Responsible and explainable AI</li>
+<li>Continuous technical learning</li>
+<li>Professional collaboration</li>
+</ul>
 
 </td>
-
 </tr>
 </table>
 
-Turning data into intelligent decisions through research, innovation and practical problem-solving.
+<p align="center"><b>Turning data into intelligent decisions through research, innovation and practical problem-solving.</b></p>
 
-<h1 align="left">
+<h1 align="left">🎓 Education</h1>
 
-🎓 Education
-
-</h1>
-
-<hr style="height:1px;border:none;background:#30363d;">
+<hr>
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/UNIVERSITY_OF_HULL-071426?style=for-the-badge&logo=academia&logoColor=36C2FF"/>
-
 <h2>MSc Artificial Intelligence &amp; Data Science</h2>
-
 <img src="https://img.shields.io/badge/London,_United_Kingdom-1688FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Postgraduate-071426?style=flat-square&logo=graduationcap&logoColor=36C2FF"/>
-
 </div>
 
-<br/>
+<h3>📍 Current Study</h3>
 
-### 📍 Current Study
+University of Hull — London Study Centre
 
-**University of Hull — London Study Centre**
+<h3>🧠 Core Academic Areas</h3>
 
-<br/>
+Artificial Intelligence
 
-### 🧠 Core Academic Areas
+Machine Learning
 
-- 🤖 Artificial Intelligence
-- 🧩 Machine Learning
-- 📊 Data Science
-- 🗃️ Big Data & Data Mining
-- 💻 Programming for AI
-- 🔬 Research Methods
+Data Science
 
-<br/>
+Big Data & Data Mining
 
-### 🎯 Academic Direction
+Programming for AI
 
-`Applied AI` • `Machine Learning` • `Data Science` • `Research`
+Research Methods
+
+<h3>🎯 Academic Direction</h3>
+
+Applied AI • Machine Learning • Data Science • Research
 
 </td>
 
 <td width="50%" valign="top">
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/DAFFODIL_INTERNATIONAL_UNIVERSITY-071426?style=for-the-badge&logo=academia&logoColor=36C2FF"/>
-
 <h2>BSc Computer Science &amp; Engineering</h2>
-
 <img src="https://img.shields.io/badge/Bangladesh-1688FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Undergraduate-071426?style=flat-square&logo=graduationcap&logoColor=36C2FF"/>
-
 </div>
 
-<br/>
-
-### 🌾 Final-Year Project
+<h3>🌾 Final-Year Project</h3>
 
 <h3 align="center">AgriMan</h3>
 
-<p align="center">
-Android application developed as my undergraduate final-year project.
-</p>
+<p align="center">Android application developed as my undergraduate final-year project.</p>
 
-<br/>
-
-### 🛠️ Technology Stack
+<h3>🛠️ Technologies Used</h3>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Java-071426?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
 <img src="https://img.shields.io/badge/Android-071426?style=for-the-badge&logo=android&logoColor=3DDC84"/>
 <img src="https://img.shields.io/badge/Firebase-071426?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-
 </p>
 
-<br/>
+<h3>💡 Foundation Developed</h3>
 
-### 💡 Foundation Developed
+Programming
 
-- Programming
-- Software Development
-- Database Concepts
-- Problem-Solving
-- Application Design
+Software Development
+
+Database Concepts
+
+Problem-Solving
+
+Application Design
 
 </td>
-
 </tr>
 </table>
 
@@ -199,89 +163,62 @@ Android application developed as my undergraduate final-year project.
 <img src="https://img.shields.io/badge/RESEARCH_IN_PROGRESS-1688FF?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/GRAPH_BASED_FRAUD_DETECTION-071426?style=for-the-badge&logo=neo4j&logoColor=36C2FF"/>
 
-<br/><br/>
-
-<p>
-My research examines how graph-based representations can model relationships among
-transactions, accounts and behavioural patterns to support more effective financial
-fraud detection.
-</p>
+<p>My research examines how graph-based representations can model relationships among transactions, accounts and behavioural patterns to support more effective financial fraud detection.</p>
 
 </div>
 
-<br/>
-
 <table>
 <tr>
+<td width="33%" valign="top">
 
-<td width="33%" valign="top" align="center">
+<h3 align="center">🔗 Graph Intelligence</h3>
 
-<h3>🔗 Graph Intelligence</h3>
-
-<img src="https://img.shields.io/badge/NODES-071426?style=flat-square&logo=neo4j&logoColor=36C2FF"/>
-<img src="https://img.shields.io/badge/EDGES-071426?style=flat-square&logo=graphql&logoColor=E10098"/>
-<img src="https://img.shields.io/badge/RELATIONSHIPS-071426?style=flat-square&logo=databricks&logoColor=FF3621"/>
-
-<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Nodes-071426?style=flat-square&logo=neo4j&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/Edges-071426?style=flat-square&logo=graphql&logoColor=E10098"/>
+</p>
 
 Studying how connected entities and relational structures can reveal suspicious patterns that conventional tabular models may overlook.
 
-<br/><br/>
-
-<b>Primary focus</b>
-
-`Graph Representation Learning`
+<p align="center"><b>Primary focus</b><br/><code>Graph Representation Learning</code></p>
 
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-<h3>🛡️ Fraud Intelligence</h3>
+<h3 align="center">🛡️ Fraud Intelligence</h3>
 
-<img src="https://img.shields.io/badge/CLASS_IMBALANCE-071426?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/CAMOUFLAGE-071426?style=flat-square&logo=hackthebox&logoColor=9FEF00"/>
-<img src="https://img.shields.io/badge/DETECTION-071426?style=flat-square&logo=googleanalytics&logoColor=E37400"/>
-
-<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Class_Imbalance-071426?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Camouflage-071426?style=flat-square&logo=hackthebox&logoColor=9FEF00"/>
+</p>
 
 Exploring rare fraudulent cases, changing behaviours and camouflaged fraudsters that attempt to resemble legitimate users.
 
-<br/><br/>
-
-<b>Primary focus</b>
-
-`Robust Fraud Detection`
+<p align="center"><b>Primary focus</b><br/><code>Robust Fraud Detection</code></p>
 
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-<h3>⚖️ Responsible AI</h3>
+<h3 align="center">⚖️ Responsible AI</h3>
 
-<img src="https://img.shields.io/badge/ROBUSTNESS-071426?style=flat-square&logo=shield&logoColor=36C2FF"/>
-<img src="https://img.shields.io/badge/EXPLAINABILITY-071426?style=flat-square&logo=openai&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/DEPLOYMENT-071426?style=flat-square&logo=docker&logoColor=2496ED"/>
-
-<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Robustness-071426?style=flat-square&logo=shield&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/Explainability-071426?style=flat-square&logo=openai&logoColor=FFFFFF"/>
+</p>
 
 Considering model transparency, reliability and the practical limitations of deploying fraud-detection systems in real financial environments.
 
-<br/><br/>
-
-<b>Primary focus</b>
-
-`Explainable and Deployable AI`
+<p align="center"><b>Primary focus</b><br/><code>Explainable and Deployable AI</code></p>
 
 </td>
-
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
 
-### Research Themes
+<h3>Research Themes</h3>
 
 <img src="https://img.shields.io/badge/Graph_Representation_Learning-071426?style=for-the-badge&logo=neo4j&logoColor=36C2FF"/>
 <img src="https://img.shields.io/badge/Class_Imbalance-071426?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
@@ -295,117 +232,87 @@ Considering model transparency, reliability and the practical limitations of dep
 
 </div>
 
-<br/>
-
 <h1 align="left">🧠 Core Expertise</h1>
 
 <hr>
 
 <table>
 <tr>
+<td width="25%" valign="top">
+<h3 align="center">🤖 AI Systems</h3>
 
-<td width="25%" align="center">
+Artificial Intelligence
 
-<h3>🤖 AI Systems</h3>
-
-`Artificial Intelligence`
-
-`Machine Learning`
+Machine Learning
 
 </td>
+<td width="25%" valign="top">
+<h3 align="center">🧬 Intelligent Models</h3>
 
-<td width="25%" align="center">
+Deep Learning
 
-<h3>🧬 Intelligent Models</h3>
-
-`Deep Learning`
-
-`Graph Neural Networks`
+Graph Neural Networks
 
 </td>
+<td width="25%" valign="top">
+<h3 align="center">💬 Perception</h3>
 
-<td width="25%" align="center">
+Natural Language Processing
 
-<h3>💬 Perception</h3>
-
-`Natural Language Processing`
-
-`Computer Vision`
+Computer Vision
 
 </td>
+<td width="25%" valign="top">
+<h3 align="center">📊 Data Intelligence</h3>
 
-<td width="25%" align="center">
+Data Science
 
-<h3>📊 Data Intelligence</h3>
-
-`Data Science`
-
-`Data Analytics`
+Data Analytics
 
 </td>
-
 </tr>
 </table>
 
-<br/>
+<h1 align="left">🛠️ Technology Stack</h1>
 
-<p align="center">
+<hr>
 
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-071426?style=for-the-badge&logo=openai&logoColor=36C2FF"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-071426?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/DEEP_LEARNING-071426?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/NLP-071426?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/COMPUTER_VISION-071426?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/GRAPH_NEURAL_NETWORKS-071426?style=for-the-badge&logo=neo4j&logoColor=018BFF"/>
-<img src="https://img.shields.io/badge/DATA_SCIENCE-071426?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
-<img src="https://img.shields.io/badge/DATA_ANALYTICS-071426?style=for-the-badge&logo=googleanalytics&logoColor=E37400"/>
-
-</p>
-
-🛠️ Technology Stack
-
-Programming, Frameworks and Tools
+<h3 align="center">Programming, Frameworks and Tools</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,java,mysql,git,github,vscode,firebase&perline=10" alt="Technology stack"/>
 </p>
 
-Data Science Workflow
+<h3 align="center">Data Science Workflow</h3>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Pandas-071426?style=flat-square&logo=pandas&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/NumPy-071426?style=flat-square&logo=numpy&logoColor=4DABCF"/>
-<img src="https://img.shields.io/badge/Matplotlib-071426?style=flat-square&logo=python&logoColor=36C2FF"/>
-<img src="https://img.shields.io/badge/Jupyter-071426?style=flat-square&logo=jupyter&logoColor=F37626"/>
-<img src="https://img.shields.io/badge/Google_Colab-071426?style=flat-square&logo=googlecolab&logoColor=F9AB00"/>
-<img src="https://img.shields.io/badge/SQL-071426?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Git-071426?style=flat-square&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-071426?style=flat-square&logo=github&logoColor=FFFFFF"/>
-
+<img src="https://img.shields.io/badge/Pandas-071426?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/NumPy-071426?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Matplotlib-071426?style=for-the-badge&logo=python&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/Jupyter-071426?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
+<img src="https://img.shields.io/badge/Google_Colab-071426?style=for-the-badge&logo=googlecolab&logoColor=F9AB00"/>
+<img src="https://img.shields.io/badge/SQL-071426?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Git-071426?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-071426?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </p>
 
+<h1 align="left">🔥 GitHub Streak</h1>
+
+<hr>
+
 <div align="center">
-
-## 🔥 GitHub Streak
-
-<img
-  src="https://streak-stats.demolab.com?user=sabidahmedsunve&hide_border=true&background=030B18&ring=1688FF&fire=36C2FF&currStreakLabel=F6F9FF&sideLabels=F6F9FF&dates=9CB2CB&currStreakNum=FFFFFF&sideNums=FFFFFF"
-  alt="Sabid Ahmed Sunve GitHub streak"
-/>
-
+<img src="https://streak-stats.demolab.com?user=sabidahmedsunve&hide_border=true&background=030B18&ring=1688FF&fire=36C2FF&currStreakLabel=F6F9FF&sideLabels=F6F9FF&dates=9CB2CB&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Sabid Ahmed Sunve GitHub streak"/>
 </div>
 
-🚀 Selected Projects
+<h1 align="left">🚀 Featured Projects</h1>
+
+<hr>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🔗 Graph Neural Networks for Financial Fraud Detection
+<h3>🔗 Graph Neural Networks for Financial Fraud Detection</h3>
 
 Research investigating how graph neural networks can identify suspicious relational and behavioural patterns in financial data.
 
@@ -424,9 +331,10 @@ Explainability
 Status: Research in progress
 
 </td>
+
 <td width="50%" valign="top">
 
-😊 Emotion Classification with NLP
+<h3>😊 Emotion Classification with NLP</h3>
 
 Natural language processing work using the GoEmotions dataset to explore multi-label emotion classification.
 
@@ -450,7 +358,7 @@ Status: Academic project
 <tr>
 <td width="50%" valign="top">
 
-🌾 AgriMan Android Application
+<h3>🌾 AgriMan Android Application</h3>
 
 A BSc final-year Android application developed with Java and Firebase.
 
@@ -469,9 +377,10 @@ Cloud-based data handling
 Status: Completed
 
 </td>
+
 <td width="50%" valign="top">
 
-📊 Applied AI & Data Science Work
+<h3>📊 Applied AI & Data Science Work</h3>
 
 A growing portfolio of academic notebooks and practical projects involving data analysis, machine learning, data mining and model evaluation.
 
@@ -493,35 +402,52 @@ Status: Ongoing
 </tr>
 </table>
 
-📌 What You Can Expect From My Repositories
+<h1 align="left">📌 Repository Standards</h1>
+
+<hr>
 
 I aim to develop repositories that are clear, honest and useful to both technical and non-technical readers.
-
-Each completed project should include:
-
-A clear problem statement
-
-Dataset information and access instructions
-
-Reproducible setup steps
-
-Structured notebooks or source code
-
-Visualisations and model results
-
-Honest discussion of limitations
-
-References and acknowledgements
-
-A professional project README
-
-🎯 Current Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-Learning and Development
+Documentation
+
+Clear problem statement
+
+Dataset information
+
+Setup instructions
+
+Project structure
+
+</td>
+<td width="50%" valign="top">
+
+Technical Quality
+
+Reproducible notebooks
+
+Visualisations and results
+
+Honest limitations
+
+References and acknowledgements
+
+</td>
+</tr>
+</table>
+
+<h1 align="left">🎯 Current Focus</h1>
+
+<hr>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📚 Learning & Development</h3>
 
 Strengthening machine learning foundations
 
@@ -536,7 +462,7 @@ Studying current AI research
 </td>
 <td width="50%" valign="top">
 
-Building and Research
+<h3 align="center">🔬 Building & Research</h3>
 
 Graph neural network research
 
@@ -552,7 +478,9 @@ Professional portfolio development
 </tr>
 </table>
 
-🤝 Open to Meaningful Connections
+<h1 align="left">🤝 Open to Meaningful Connections</h1>
+
+<hr>
 
 I welcome connections with:
 
@@ -570,7 +498,9 @@ Open-source contributors
 
 Professionals interested in responsible AI
 
-🌐 Connect With Me
+<h1 align="left">🌐 Connect With Me</h1>
+
+<hr>
 
 <div align="center">
 
@@ -580,7 +510,7 @@ Link
 
 🌍 Portfolio
 
-https://sabidahmedsunve.github.io/Sunve-Portfolio/
+sabidahmedsunve.github.io/Sunve-Portfolio
 
 💼 LinkedIn
 
