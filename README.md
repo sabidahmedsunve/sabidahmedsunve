@@ -207,7 +207,7 @@ Studying how connected entities and relational structures can reveal suspicious 
 <img src="https://img.shields.io/badge/Camouflage-071426?style=flat-square&logo=hackthebox&logoColor=9FEF00"/>
 </p>
 
-Exploring rare fraudulent cases, changing behaviours and camouflaged fraudsters that attempt to resemble legitimate users.
+Exploring rare fraudulent cases, changing behaviours, and camouflaged fraudsters that attempt to resemble legitimate users.
 
 <p align="center"><b>Primary focus</b><br/><code>Robust Fraud Detection</code></p>
 
@@ -250,42 +250,27 @@ Considering model transparency, reliability and the practical limitations of dep
 
 <hr>
 
-<table>
-<tr>
-<td width="25%" valign="top">
-<h3 align="center">🤖 AI Systems</h3>
+### 🤖 Artificial Intelligence
 
-Artificial Intelligence
+<p align="center">
 
-Machine Learning
+<img src="https://img.shields.io/badge/Artificial_Intelligence-071426?style=for-the-badge&logo=openai&logoColor=36C2FF"/>
+<img src="https://img.shields.io/badge/Machine_Learning-071426?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Deep_Learning-071426?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Graph_Neural_Networks-071426?style=for-the-badge&logo=neo4j&logoColor=018BFF"/>
 
-</td>
-<td width="25%" valign="top">
-<h3 align="center">🧬 Intelligent Models</h3>
+</p>
 
-Deep Learning
+### 📊 Data Science & Analytics
 
-Graph Neural Networks
+<p align="center">
 
-</td>
-<td width="25%" valign="top">
-<h3 align="center">💬 Perception</h3>
+<img src="https://img.shields.io/badge/Natural_Language_Processing-071426?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Computer_Vision-071426?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/Data_Science-071426?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
+<img src="https://img.shields.io/badge/Data_Analytics-071426?style=for-the-badge&logo=googleanalytics&logoColor=E37400"/>
 
-Natural Language Processing
-
-Computer Vision
-
-</td>
-<td width="25%" valign="top">
-<h3 align="center">📊 Data Intelligence</h3>
-
-Data Science
-
-Data Analytics
-
-</td>
-</tr>
-</table>
+</p>
 
 <h1 align="left">🛠️ Technology Stack</h1>
 
