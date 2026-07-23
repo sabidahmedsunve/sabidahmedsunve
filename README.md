@@ -444,36 +444,35 @@ References and acknowledgements
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-<h3 align="center">📚 Learning & Development</h3>
+<h2 align="center">📚 Learning & Development</h2>
 
-Strengthening machine learning foundations
-
-Expanding deep learning knowledge
-
-Improving Python and data workflows
-
-Developing better technical documentation
-
-Studying current AI research
+<table>
+<tr><td>🤖</td><td><b>Machine Learning</b></td></tr>
+<tr><td>🧠</td><td><b>Deep Learning</b></td></tr>
+<tr><td>🐍</td><td><b>Advanced Python</b></td></tr>
+<tr><td>📝</td><td><b>Technical Documentation</b></td></tr>
+<tr><td>📖</td><td><b>Current AI Research</b></td></tr>
+</table>
 
 </td>
+
 <td width="50%" valign="top">
 
-<h3 align="center">🔬 Building & Research</h3>
+<h2 align="center">🔬 Building & Research</h2>
 
-Graph neural network research
-
-Applied AI projects
-
-NLP and emotion classification
-
-Data mining and analytics
-
-Professional portfolio development
+<table>
+<tr><td>🔗</td><td><b>Graph Neural Networks</b></td></tr>
+<tr><td>🤖</td><td><b>Applied AI Projects</b></td></tr>
+<tr><td>💬</td><td><b>NLP & Emotion Analysis</b></td></tr>
+<tr><td>📊</td><td><b>Data Mining & Analytics</b></td></tr>
+<tr><td>🌐</td><td><b>Portfolio Development</b></td></tr>
+</table>
 
 </td>
+
 </tr>
 </table>
 
